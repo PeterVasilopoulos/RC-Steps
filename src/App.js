@@ -49,7 +49,7 @@ export default function App() {
                     >
                         Learn how
                     </Button>
-                </StepMessage> 
+                </StepMessage>  
 
                 <div className='buttons'>
                     <Button 
